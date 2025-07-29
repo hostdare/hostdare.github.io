@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>新闻 on HostDare中文指南</title>
+    <link>https://hostdare.github.io/news/</link>
+    <description>Recent content in 新闻 on HostDare中文指南</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hostdare.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HostDare 2025年8月CN2-GIA优惠码和最新AMD VPS</title>
+      <link>https://hostdare.github.io/news/hostdare-august-2025-cn2-gia-coupon-amd-vps/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://hostdare.github.io/news/hostdare-august-2025-cn2-gia-coupon-amd-vps/</guid>
+      <description>HostDare 2025年8月CN2-GIA系列优惠码提供 32%折扣，同时推出全新CAMD系列AMD EPYC处理器VPS，年付最低$25.83，3个付费周期循环优惠。</description>
+    </item>
+  </channel>
+</rss>
