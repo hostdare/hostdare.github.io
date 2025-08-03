@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hostdare.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HostDare洛杉矶CN2-GIA NVMe VPS全面评测</title>
+      <link>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-vps/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-vps/</guid>
+      <description>详细测试HostDare洛杉矶CN2-GIA线路NVMe VPS的CPU、内存、存储、网络性能表现，包含CSSD0套餐完整评测数据和购买建议，为选择海外VPS提供参考。</description>
+    </item>
     <item>
       <title>HostDare额外福利怎么领取：内存、流量翻倍</title>
       <link>https://hostdare.github.io/blogs/tips/vps-extra-benefits-memory-traffic-double/</link>
