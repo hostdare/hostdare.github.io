@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hostdare.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HostDare vs Vultr全面对比测试：性能、线路、价格</title>
+      <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-vultr/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://hostdare.github.io/blogs/comparisons/hostdare-vs-vultr/</guid>
+      <description>通过实际测试对比HostDare和Vultr两家VPS服务商的性能表现、网络线路、价格套餐等关键指标，为中国用户提供详细的选择建议和购买指导。</description>
+    </item>
     <item>
       <title>HostDare退款政策详解：退款流程、条件</title>
       <link>https://hostdare.github.io/blogs/tutorials/hostdare-refund-policy-guide/</link>
