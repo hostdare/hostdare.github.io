@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hostdare.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HostDare CN2-GIA AMD VPS评测：CAMD0全面解析【2025】</title>
+      <link>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/</guid>
+      <description>详细评测HostDare最新推出的CN2-GIA NVMe AMD VPS套餐，重点测试AMD EPYC处理器性能表现、CN2优化线路效果、以及CAMD0套餐的性价比分析，为国内用户提供真实购买参考。</description>
+    </item>
     <item>
       <title>HostDare vs Vultr全面对比测试：性能、线路、价格</title>
       <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-vultr/</link>
