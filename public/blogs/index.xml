@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hostdare.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HostDare和DMIT对比测评：VPS性能与价格差异分析</title>
+      <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-dmit/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://hostdare.github.io/blogs/comparisons/hostdare-vs-dmit/</guid>
+      <description>本文基于真实测试，从网络延迟、线路质量、硬件配置、价格到实际使用体验，全方位对比HostDare与DMIT的差异。不论是跨境访问、网站建设还是应用部署，阅读本测评都能帮助你找到更合适的VPS方案。</description>
+    </item>
     <item>
       <title>HostDare CN2-GIA AMD VPS评测：CAMD0全面解析【2025】</title>
       <link>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/</link>
