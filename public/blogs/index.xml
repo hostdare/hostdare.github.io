@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hostdare.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HostDare与搬瓦工详细对比，优缺点一文看懂</title>
+      <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-bandwagonhost/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hostdare.github.io/blogs/comparisons/hostdare-vs-bandwagonhost/</guid>
+      <description>全面对比HostDare和搬瓦工VPS主机商在价格、性能、线路、客服等方面的差异，帮助用户根据实际需求选择最适合的VPS服务商。包含详细的套餐对比、速度测试和购买建议。</description>
+    </item>
     <item>
       <title>HostDare和DMIT对比测评：VPS性能与价格差异分析</title>
       <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-dmit/</link>
