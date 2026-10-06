@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hostdare.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HostDare 退款政策详解：3天退款条件、工单流程与无法退款应对方案</title>
+      <link>https://hostdare.github.io/blogs/tutorials/hostdare-refund-policy-guide/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://hostdare.github.io/blogs/tutorials/hostdare-refund-policy-guide/</guid>
+      <description>2026年最新HostDare官方退款政策权威解读：全系列VPS均支持3天退款保证、正当退款理由要求、50美分~1美元手续费扣除标准及20%月流量红线限制。内附中英文退款工单申请模板与无法退款时的兜底应对方案。</description>
+    </item>
     <item>
       <title>HostDare CN2 GIA 缺货怎么办？看看这几家高性价比 VPS！</title>
       <link>https://hostdare.github.io/blogs/tips/hostdare-cn2-gia-alternatives/</link>
@@ -42,13 +49,6 @@
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://hostdare.github.io/blogs/comparisons/hostdare-vs-vultr/</guid>
       <description>通过实际测试对比HostDare和Vultr两家VPS服务商的性能表现、网络线路、价格套餐等关键指标，为中国用户提供详细的选择建议和购买指导。</description>
-    </item>
-    <item>
-      <title>HostDare退款政策详解：退款流程、条件</title>
-      <link>https://hostdare.github.io/blogs/tutorials/hostdare-refund-policy-guide/</link>
-      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/tutorials/hostdare-refund-policy-guide/</guid>
-      <description>详细解读HostDare官方退款政策，包括退款条件、申请流程、处理时间等关键信息。如果你正在考虑购买HostDare VPS或已购买后想申请退款，这篇文章将为你提供完整的退款指南和实用建议。</description>
     </item>
     <item>
       <title>HostDare洛杉矶CN2-GIA NVMe VPS全面评测</title>
